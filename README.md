@@ -1,4 +1,4 @@
-# Hi there, I'm Suhrob Ziyovuddinov 👋
+# Hi there, I'm Sukhrob Ziyovuddinov 👋
 
 🔍 **Financial Crime & AML Specialist | Investigator | Risk Intelligence Analyst**
 
@@ -15,4 +15,4 @@ With over a decade of experience in investigating cross-border criminal networks
 ### 🌍 Languages
 Tajik (Native) | Russian (Fluent) | Uzbek (Fluent) | English (Professional) | Persian (Conversational)
 
-📫 **How to reach me:** https://www.linkedin.com/in/suhrob-ziyovuddinov or suhrobziyovuddinov@gmail.com
+📫 **How to reach me:** https://www.linkedin.com/in/sukhrob-ziyovuddinov or sukhrobziyovuddinov@gmail.com
