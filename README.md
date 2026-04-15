@@ -1,53 +1,35 @@
-# Sukhrob Ziyovuddinov
-
-## Blockchain & Financial Crime Specialist | AML/CTF | Crypto Investigations | Compliance
-
-I am a compliance and investigations professional with over 10 years of experience across **anti-money laundering**, **counter-terrorism financing**, **customer due diligence**, **transaction monitoring**, **sanctions compliance**, and **cryptocurrency-related financial crime**.
-
-My professional focus is at the intersection of **financial crime prevention**, **blockchain intelligence**, and **digital asset compliance**. I work on practical approaches to detecting suspicious activity, tracing illicit funds, strengthening internal controls, and supporting risk-based compliance programs.
-
----
-
-### Areas of Expertise
-
-- AML / CTF compliance
-- KYC / customer due diligence
-- Transaction monitoring and alert review
-- Sanctions screening and controls
-- Crypto tracing and wallet analysis
-- Blockchain investigations
-- Investigative documentation and case development
-- Financial crime typologies and red flags
-- Compliance risk analysis
+<div align="center">
+  <h1>Sukhrob Ziyovuddinov</h1>
+  <p><b>Founder & CEO @ ASII | AI-Native Financial Intelligence</b></p>
+  
+  <img src="https://img.shields.io/badge/Focus-MENA%20RegTech-gold?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Compliance-FATF%202026-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Strategy-Digital%20Mandate%202027-white?style=for-the-badge" />
+</div>
 
 ---
 
-### Tools
+### 🛡️ Professional Profile
+As the Founder of **ASII**, I am pioneering the next generation of financial crime intelligence. With a foundation in **Law Enforcement (MVD/UBNON)** and over a decade of business operations in Dubai, I bridge the critical gap between deep investigative expertise and AI-driven automation.
 
-`Chainalysis` `TRM Labs` `Elliptic` `Python` `SQL` `Excel` `OSINT`
+### 🚀 ASII: The Future of Integrity
+We are building an **AI-Native Infrastructure** that transforms compliance from a reactive burden into a strategic intelligence asset:
+* **Efficiency:** Reducing false positives by **95%** through autonomous AI Agents.
+* **Unified Intelligence:** Bridging Fiat banking and Blockchain/VARA forensics.
+* **National Impact:** Aligning UAE financial institutions with the **FATF 2026** "Gold Standard".
 
----
-
-### Professional Value
-
-- 10+ years in investigations and compliance
-- Combines legal, operational, and analytical expertise
-- Understands both traditional and crypto-native risk environments
-- Focused on practical, defensible, and business-relevant compliance solutions
-
----
-
-### Current Focus
-
-- Crypto compliance frameworks
-- Blockchain risk intelligence
-- Suspicious activity detection models
-- Investigation workflows for digital asset cases
-- Research on financial crime trends in emerging markets
+### 🛠️ Core Expertise
+- **RegTech Architecture:** AI Agent Swarms, Predictive Risk Scoring.
+- **Investigation:** AML/CTF, KYC, and Blockchain Forensics.
+- **Leadership:** Strategic scaling of tech-driven solutions in the MENA region.
 
 ---
 
-### Connect
-
-- LinkedIn: [linkedin.com/in/sukhrob-ziyovuddinov](https://www.linkedin.com/in/sukhrob-ziyovuddinov)
-- Email: sukhrobziyovuddinov@gmail.com
+<div align="center">
+  <a href="https://linkedin.com/in/sukhrob-ziyovuddinov">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://sukhrob-ziyovuddinov.github.io/">
+    <img src="https://img.shields.io/badge/Website-ASII-121D33?style=for-the-badge&logo=google-chrome" />
+  </a>
+</div>
