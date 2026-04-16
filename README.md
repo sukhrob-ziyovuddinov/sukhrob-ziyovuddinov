@@ -1,37 +1,25 @@
-<div align="center">
-  <h1>Sukhrob Ziyovuddinov</h1>
-  <p><b>Founder & CEO @ ASII | AI-Native Financial Intelligence</b></p>
-  
-  <img src="https://img.shields.io/badge/Focus-MENA%20RegTech-gold?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Compliance-FATF%202026-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Strategy-Digital%20Mandate%202027-white?style=for-the-badge" />
-</div>
+# 🛡️ ASII | AI-Native Financial Crime Intelligence
+
+> **Automating the 2026-2027 UAE Digital Mandate.**
 
 ---
 
-### 🛡️ Professional Profile
-With a 7-year career as a **Senior Criminal Investigator** at the **Ministry of Internal Affairs of the Republic of Tajikistan** (Drug Control Department), I bridge the gap between field-proven investigative intelligence and AI-native automation.
+### 👮 Founder Profile
+I am a **Senior Criminal Investigator** with a 7-year track record at the **Ministry of Internal Affairs of the Republic of Tajikistan** (Drug Control Department). With 12+ years in the Dubai business landscape, I translate "field investigative logic" into autonomous AI-agent architectures for the financial sector.
 
-
-
-### 🚀 ASII: The Future of Integrity
-We are building an **AI-Native Infrastructure** that transforms compliance from a reactive burden into a strategic intelligence asset:
-* **Efficiency:** Reducing false positives by **95%** through autonomous AI Agents.
-* **Unified Intelligence:** Bridging Fiat banking and Blockchain/VARA forensics.
-* **National Impact:** Aligning UAE financial institutions with the **FATF 2026** "Gold Standard".
-
-### 🛠️ Core Expertise
-- **RegTech Architecture:** AI Agent Swarms, Predictive Risk Scoring.
-- **Investigation:** AML/CTF, KYC, and Blockchain Forensics.
-- **Leadership:** Strategic scaling of tech-driven solutions in the MENA region.
+### 🛠️ Technology Stack
+* **Language:** Python 3.11+
+* **Engine:** Multi-Agent Swarm Logic
+* **Domain:** Blockchain Forensics & AML Intelligence
+* **Compliance:** VARA & FATF Regulatory Automation
 
 ---
 
-<div align="center">
-  <a href="https://linkedin.com/in/sukhrob-ziyovuddinov">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://sukhrob-ziyovuddinov.github.io/">
-    <img src="https://img.shields.io/badge/Website-ASII-121D33?style=for-the-badge&logo=google-chrome" />
-  </a>
-</div>
+### 📬 Connect for Partnerships
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sukhrob-ziyovuddinov/)
+[![Telegram](https://img.shields.io/badge/Telegram-Chat-0088cc?style=for-the-badge&logo=telegram)](https://t.me/asiisz)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Direct-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/message/XF7UQ67USPUOM1)
+[![Email](https://img.shields.io/badge/Email-Inquiry-d44638?style=for-the-badge&logo=gmail)](mailto:Sukhrobziyovuddinov@gmail.com)
+
+---
+*Operational Base: Dubai, UAE*
