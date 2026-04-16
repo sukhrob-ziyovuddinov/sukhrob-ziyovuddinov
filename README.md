@@ -10,7 +10,8 @@
 ---
 
 ### 🛡️ Professional Profile
-As the Founder of **ASII**, I am pioneering the next generation of financial crime intelligence. With a foundation in **Law Enforcement (MVD/UBNON)** and over a decade of business operations in Dubai, I bridge the critical gap between deep investigative expertise and AI-driven automation.
+With a 7-year background as a **Senior Criminal Investigator** at the **Drug Control Department (MVD)**, I translate real-world investigative expertise into AI-native financial intelligence. My career in law enforcement provides the foundational "investigative intuition" that drives the ASII architecture.
+
 
 ### 🚀 ASII: The Future of Integrity
 We are building an **AI-Native Infrastructure** that transforms compliance from a reactive burden into a strategic intelligence asset:
