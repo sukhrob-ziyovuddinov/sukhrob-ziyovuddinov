@@ -10,7 +10,8 @@
 ---
 
 ### 🛡️ Professional Profile
-With a 7-year background as a **Senior Criminal Investigator** at the **Drug Control Department (MVD)**, I translate real-world investigative expertise into AI-native financial intelligence. My career in law enforcement provides the foundational "investigative intuition" that drives the ASII architecture.
+With a 7-year career as a **Senior Criminal Investigator** at the **Ministry of Internal Affairs of the Republic of Tajikistan** (Drug Control Department), I bridge the gap between field-proven investigative intelligence and AI-native automation.
+
 
 
 ### 🚀 ASII: The Future of Integrity
